@@ -1,0 +1,7 @@
+#Fri Jul 21 04:40:29 IST 2017
+base.0=/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef4992447c6ca5736aa813a1b308fdc4a5fa93f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_639bcb098e8c4992fe2742ca2db9974d0566ae1d/classes.dex
+base.1=/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_639bcb098e8c4992fe2742ca2db9974d0566ae1d
+file.0=/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef4992447c6ca5736aa813a1b308fdc4a5fa93f5/classes.dex

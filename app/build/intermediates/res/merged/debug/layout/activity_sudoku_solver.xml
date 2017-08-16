@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="422dp">
+
+        <com.divyanshjain.sudoku.view.sudokugrid.SudokuGridView
+            android:id="@+id/sudokuGridView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="9"
+            android:horizontalSpacing="0dp"
+            android:verticalSpacing="0dp" />
+
+        <com.divyanshjain.sudoku.view.buttonsgrid.ButtonsGridView
+            android:id="@+id/buttonsgridview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sudokuGridView1"
+            android:numColumns="5"/>
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:layout_width="match_parent"
+        android:layout_height="68dp"
+        android:id="@+id/adView3"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_weight="0.46" />
+</LinearLayout>

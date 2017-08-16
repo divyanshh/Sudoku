@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.divyanshjain.sudoku.ActivityGame"
+    android:background="@drawable/background1use">
+
+    <!-- view for AdMob Banner Ad -->
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:text="High Scores"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adView2"
+        android:layout_marginBottom="37dp"
+        android:id="@+id/button4"
+        android:width="200dp"
+        android:height="70dp"
+        android:background="@drawable/b3"
+        android:layout_alignRight="@+id/button3"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:textSize="20dp"
+        android:textColor="#aab37b"/>
+
+    <Button
+        android:text="Sudoku Solver"
+        android:textSize="20dp"
+        android:textColor="#aab37b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:layout_marginBottom="29dp"
+        android:width="200dp"
+        android:height="70dp"
+        android:background="@drawable/b3"
+        android:layout_above="@+id/button4"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignRight="@+id/button2"
+        android:layout_alignEnd="@+id/button2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:textColor="#aab37b"
+        android:textSize="20dp"
+        android:text="Start Game"
+        android:layout_marginBottom="40dp"
+        android:width="200dp"
+        android:height="70dp"
+        android:background="@drawable/b3"
+        android:layout_above="@+id/button3"
+        android:layout_alignLeft="@+id/adView2"
+        android:layout_alignStart="@+id/adView2"
+        android:layout_alignRight="@+id/adView2"
+        android:layout_alignEnd="@+id/adView2" />
+
+</RelativeLayout>

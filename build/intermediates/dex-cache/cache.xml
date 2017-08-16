@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_dc2dd1d0d1093ea362efe9b471191c4f56761451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_3cc1031ae74f6d4971ace01482abd20e018d4ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_097efa8de3ecf5c84ced2bc1323cc27189eae0a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_dd7d2e7e18a5d0d4af5c06dea13005daa3221383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b43a09add1f26babc3aaf40dcff39682a2f4f330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="085ebc99d2905856c093926e04b06b60508195ce">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ef4992447c6ca5736aa813a1b308fdc4a5fa93f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dcae2f8930c22ba9b625ac7e11e94610ab26d7d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_639bcb098e8c4992fe2742ca2db9974d0566ae1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_9bfcbcd506cd494055ab9b96ffd19a292644e068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_59d3c01c040ec26deca978cec28c3704405300d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_aff3b061b9cc53bbe6cfc4c172cc1bc8eca29e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_9b67ec0e0e6d22a94a27ccc271651c61b01c93e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_200f1852f0ac64851cce3521aab85a0eff3c9156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_8b14701104f3b1eb0f2354063090bc33e40f92c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_6125cdc874f79716926fcbdcaf1a82ce8acb5094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_95763ac74300212d8f8a11063cae610c6df6e77e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_e9227f3aea815bc8a724c039f8ea277412f10a49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_63e4907cceb25e187fa6aaa4662278bcd9b734fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_ce9274196a0ba64e4dfb6c4851080a682f6369b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/divyanshjain/Desktop/WORK/Sudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_e304d2698e54b73fc7dc189823478e5e002162d9/classes.dex" />
+    </item>
+
+</items>
